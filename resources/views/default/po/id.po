@@ -1,0 +1,658 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: id_ID\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jero Jerromon <jjerromon@gmai.com>\n"
+"Language-Team: EstateZilla (jjerromon@gmail.com)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2017-05-17T18:51:02+00:00\n"
+"PO-Revision-Date: 2018-04-20 00:15+0800\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.0.6\n"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:22
+msgid "Sign in"
+msgstr "Masuk"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:23
+msgid "If you have an account with us, please log in."
+msgstr "Jika anda telah memiliki Akun, silahakan login"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:48
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:47
+msgid "Email address"
+msgstr "Alamat Email"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:52
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:51
+#: C:\express\estatezilla/resources/views/default\user\change-password.blade.php:24
+msgid "Password"
+msgstr "Password"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:57
+msgid "Remember me"
+msgstr "Ingat saya"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:60
+msgid "Login"
+msgstr "Masuk"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:65
+msgid "Forgot your password?"
+msgstr "Lupa password?"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:65
+msgid "Click here to reset"
+msgstr "Klik disini untuk reset"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:84
+msgid "Register"
+msgstr "Daftar"
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:85
+msgid "By creating an account you'll have access to a dashboard where you can post ads, manage your ads and edit your ads."
+msgstr "Dengan membuat akun, anda akan memiliki akses ke dasbor dimana anda dapat membuat iklan, memngatur iklan anda dan mengubah iklan anda."
+
+#: C:\express\estatezilla/resources/views/default\auth\login.blade.php:86
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:12
+msgid "Create an account"
+msgstr "Buat Akun"
+
+#: C:\express\estatezilla/resources/views/default\auth\password.blade.php:15
+#: C:\express\estatezilla/resources/views/default\auth\reset.blade.php:13
+msgid "Reset Password"
+msgstr "Reset Password"
+
+#: C:\express\estatezilla/resources/views/default\auth\password.blade.php:16
+msgid "Enter the e-mail address associated with your account, then click Continue. We'll email you a link to a page where you can easily create a new password."
+msgstr "Masukkan alamat email yang terhubung dengan akun anda, kemudian klik \"Lanjutkan\". Kami akan mengirimkan tautan ke sebuah halaman dimana anda dapat membuat password baru."
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:36
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:313
+msgid "Full name"
+msgstr "Nama Lengkap"
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:39
+msgid "Enter your first name"
+msgstr "Masukkan nama depan anda"
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:48
+msgid "Enter email"
+msgstr "Masukkan email"
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:52
+msgid "Enter a password"
+msgstr "Masukkan password"
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:55
+#: C:\express\estatezilla/resources/views/default\user\change-password.blade.php:35
+msgid "Confirm password"
+msgstr "Konfirmasi password"
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:56
+msgid "Confirm your password"
+msgstr "Konfirmasi password anda"
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:61
+msgid "We can contact you with relevant offers and news"
+msgstr "Kami dapat menghubungi anda dengan tawaran dan berita yang relevan"
+
+#: C:\express\estatezilla/resources/views/default\auth\register.blade.php:67
+msgid "Create account"
+msgstr "Buat akun"
+
+#: C:\express\estatezilla/resources/views/default\auth\reset.blade.php:14
+msgid "We'll ask you for your password when you submit a listing or save your favorite properties"
+msgstr "Kami akan menanyakan password anda pada saat anda memuat iklan atau pada saat anda menyimpan properti favorit anda"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:117
+#: C:\express\estatezilla/resources/views/default\layouts\user.blade.php:9
+#: C:\express\estatezilla/resources/views/default\user\menu.blade.php:5
+msgid "My account"
+msgstr "Akun saya"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:120
+#: C:\express\estatezilla/resources/views/default\layouts\user.blade.php:10
+#: C:\express\estatezilla/resources/views/default\user\menu.blade.php:8
+msgid "Saved properties"
+msgstr "Properti tersimpan"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:122
+#: C:\express\estatezilla/resources/views/default\user\menu.blade.php:10
+msgid "Account details"
+msgstr "Rincian Akun"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:123
+#: C:\express\estatezilla/resources/views/default\user\change-password.blade.php:3
+#: C:\express\estatezilla/resources/views/default\user\change-password.blade.php:13
+#: C:\express\estatezilla/resources/views/default\user\menu.blade.php:11
+msgid "Change password"
+msgstr "Ganti password"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:125
+#: C:\express\estatezilla/resources/views/default\user\menu.blade.php:13
+msgid "Log out"
+msgstr "Logout"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:129
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:349
+msgid "Login/Register"
+msgstr "Login/Daftar"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:134
+msgid "Language"
+msgstr "Bahasa"
+
+#: C:\express\estatezilla/resources/views/default\layouts\default.blade.php:160
+msgid "All rights reserved"
+msgstr "Dilindungi hak cipta"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:8
+msgid "Change location and criteria"
+msgstr "Ganti lokasi dan kriteria"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:13
+msgid "Location"
+msgstr "Lokasi"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:14
+msgid "Start typing..."
+msgstr "Mulai ketik"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:27
+#: C:\express\estatezilla/resources/views/default\partials\home_form.blade.php:15
+msgid "Buy/Rent"
+msgstr "Beli/Sewa"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:28
+msgid "Sale"
+msgstr "Jual"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:28
+msgid "Rent"
+msgstr "Sewa"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:28
+msgid "All"
+msgstr "Semua"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:34
+msgid "Within"
+msgstr "Dalam"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:39
+msgid "Beds"
+msgstr "Tempat tidur"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:52
+msgid "Added"
+msgstr "Ditambahkan"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:60
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:234
+msgid "Update"
+msgstr "diperbarui"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:81
+msgid "Price range"
+msgstr "Jangkauan harga"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:98
+msgid "to"
+msgstr "hingga"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:123
+#: C:\express\estatezilla/resources/views/default\partials\home_form.blade.php:26
+msgid "Property types"
+msgstr "Jenis properti"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:162
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:233
+msgid "Condition of property"
+msgstr "Kondisi properti"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:194
+msgid "Features and characteristics"
+msgstr "Fitur dan karakteristik"
+
+#: C:\express\estatezilla/resources/views/default\listings\sidebar.blade.php:225
+msgid "Filter listings"
+msgstr "Filter daftar"
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:5
+msgid "Sorry, no results found. Please try and broaden your search criteria"
+msgstr "Maaf, hasil tidak ditemukan. Silahkan coba lagi dan tambah kriteria pencarian anda"
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:11
+msgid "The location '%s' was not found. Showing all results."
+msgstr "Lokasi '%s' tidak ditemukan. Tampilkan semua hasil."
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:16
+msgid "Grid view"
+msgstr "Tampilan Grid"
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:17
+msgid "List view"
+msgstr "Tampilan Daftar"
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:29
+msgid "properties"
+msgstr "properti"
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:34
+msgid "Sort by"
+msgstr "Urutkan menurut"
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:86
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:241
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:123
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:56
+msgid "Bedrooms"
+msgstr "Ruang tidur"
+
+#: C:\express\estatezilla/resources/views/default\listings\view.blade.php:87
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:245
+msgid "Bathrooms"
+msgstr "Kamar mandi"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:15
+msgid "Contact us"
+msgstr "Kontak Kami"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:21
+msgid "We encountered the following errors:"
+msgstr "Kami menemukan permasalahan berikut:"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:39
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:27
+msgid "First name"
+msgstr "Nama depan"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:46
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:34
+msgid "Last name"
+msgstr "Nama belakang"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:55
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:42
+msgid "Email"
+msgstr "Email"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:62
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:297
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:57
+msgid "Phone number"
+msgstr "Nomor telepon"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:71
+msgid "Category"
+msgstr "Kategori"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:81
+msgid "Your comments"
+msgstr "Komentar anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\contact-us.blade.php:98
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:92
+msgid "Send"
+msgstr "Kirim"
+
+#: C:\express\estatezilla/resources/views/default\pages\listings.blade.php:4
+#: C:\express\estatezilla/resources/views/default\pages\map.blade.php:5
+msgid "Home"
+msgstr "Beranda"
+
+#: C:\express\estatezilla/resources/views/default\pages\listings.blade.php:6
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:18
+msgid "Properties"
+msgstr "Properti"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:19
+msgid "For sale"
+msgstr "Dijual"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:31
+msgid "back to listings"
+msgstr "kembali ke daftar"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:91
+#: C:\express\estatezilla/resources/views/default\partials\home_carousel.blade.php:22
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:95
+#: C:\express\estatezilla/resources/views/default\partials\home_carousel.blade.php:26
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:123
+msgid "Description"
+msgstr "Deskripsi"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:128
+msgid "We haven't received a description for this property"
+msgstr "Kami belum menerima deskripsi untuk properti ini"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:132
+msgid "Ref code"
+msgstr "Kode Ref"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:138
+msgid "Features"
+msgstr "Fitur"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:197
+msgid "Map"
+msgstr "Peta"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:198
+msgid "Additional information"
+msgstr "Informasi tambahan"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:229
+msgid "Property type"
+msgstr "Jenis Properti"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:234
+msgid "condition."
+msgstr "kondisi."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:237
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:57
+msgid "Property size"
+msgstr "Ukuran properti"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:238
+msgid "m&#178;"
+msgstr "m&#178;"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:242
+msgid "bedrooms"
+msgstr "kamar tidur"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:246
+msgid "bathrooms"
+msgstr "kamar mandi"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:249
+msgid "Floors"
+msgstr "Lantai"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:250
+msgid "floors"
+msgstr "lantai"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:253
+msgid "Receptions"
+msgstr "Resepsi"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:254
+msgid "receptions"
+msgstr "resepsi"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:257
+msgid "Garden"
+msgstr "Taman"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:258
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:262
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:266
+msgid "Yes"
+msgstr "Ya"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:258
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:262
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:266
+msgid "No"
+msgstr "Tidak"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:261
+msgid "Parking"
+msgstr "Parkiran"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:265
+msgid "Investment property"
+msgstr "Properti investasi"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:298
+msgid "Website"
+msgstr "Situs"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:303
+msgid "Thanks for contacting us. We'll get back to you shortly."
+msgstr "Terima kasih telah menghubungi kami. Kami akan merespon anda secepatnya."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:305
+msgid "What happens next?"
+msgstr "Apa selanjutnya?"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:306
+msgid "1 - <b>We send your email to</b>"
+msgstr "1 - <b>Kami mengirimkan email anda ke</b>"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:307
+msgid "2 - <b>They will be in contact</b> with you as soon as possible."
+msgstr "2 - <b>Mereka akan menghubungi anda</b> sesegera mungkin."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:310
+msgid "Contact this owner"
+msgstr "Kontak pemilik ini"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:314
+msgid "Enter your full name"
+msgstr "Masukkan nama lengkap anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:318
+msgid "Your phone"
+msgstr "Telp. anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:319
+msgid "Enter your phone number"
+msgstr "Masukkan nomor telepon anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:323
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:64
+msgid "Your email"
+msgstr "Email anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:324
+msgid "Enter your email"
+msgstr "Masukkan email anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:328
+msgid "Your message"
+msgstr "Pesan anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:329
+msgid "I would like more details about this property, please let me know when we can talk..."
+msgstr "Saya ingin tahu rincian tentang properti ini, kontak saya kembali jika anda punya waktu..."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:334
+msgid "Please wait..."
+msgstr "Mohon tunggu..."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:334
+msgid "Contact agent"
+msgstr "Kontak agen"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:340
+msgid "or call"
+msgstr "atau telepon"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:349
+msgid "Please login"
+msgstr "Silahkan login"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:349
+msgid "You need to login to be able to save a property.<br /><br />If you don't have an account please register, it only takes a minute."
+msgstr "Anda harus login untuk dapat menyimpan properti.<br /><br />Jika anda belum mempunyai akun silahkan mendaftar, hanya beberapa menit saja."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:349
+msgid "Cancel"
+msgstr "Batal"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:349
+msgid "Saving..."
+msgstr "Menyimpan..."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:349
+msgid "Save property"
+msgstr "Simpan properti"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:349
+msgid "Remove saved property"
+msgstr "Hapus properti tersimpan"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:351
+msgid "Send to friend"
+msgstr "Kirim kepada teman"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:393
+msgid "Want a free valuation?"
+msgstr "Ingin dievaluasi gratis?"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:394
+msgid "Looking to sell your property? %s for a free valuation."
+msgstr "Ingin menjual properti anda? %s untuk evaluasi gratis."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:394
+msgid "Contact us today"
+msgstr "Kontak kami sekarang"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:399
+msgid "Can't find the  ideal property"
+msgstr "Tidak dapat menemukan properti ideal"
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:400
+msgid "If you can't find a property that fits your needs, %s and we'll alert you when a new property that matches your taste comes up us"
+msgstr "Jika anda tidak dapat menemukan properti yang sesuai, %s dan kami akan memberikan pemberitahuan ketika ada properti baru yang sesuai dengan keinginan anda."
+
+#: C:\express\estatezilla/resources/views/default\pages\property.blade.php:400
+msgid "send us a message"
+msgstr "kirimi kami pesan"
+
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:23
+msgid "Tell a friend about this property"
+msgstr "Beritahu teman tentang properti ini"
+
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:48
+msgid "Your name"
+msgstr "Nama anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:55
+msgid "Your friend's name"
+msgstr "Nama teman anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:71
+msgid "Your friend's email"
+msgstr "Email teman anda"
+
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:80
+msgid "Comments"
+msgstr "Komentar"
+
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:128
+msgid "Note"
+msgstr "Catatan"
+
+#: C:\express\estatezilla/resources/views/default\pages\tell-friend.blade.php:129
+msgid "%s will not send any promotional email to you or your friend by using this page."
+msgstr "%s tidak akan mengirimi email promosi kepada anda atau teman anda menggunakan halaman ini."
+
+#: C:\express\estatezilla/resources/views/default\partials\home_form.blade.php:37
+msgid "Minimum Price"
+msgstr "Harga Minimum"
+
+#: C:\express\estatezilla/resources/views/default\partials\home_form.blade.php:45
+msgid "Maximum Price"
+msgstr "Harga Maksimum"
+
+#: C:\express\estatezilla/resources/views/default\partials\home_form.blade.php:58
+msgid "Search"
+msgstr "Cari"
+
+#: C:\express\estatezilla/resources/views/default\user\change-password.blade.php:45
+msgid "Save password"
+msgstr "Simpan password"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:3
+msgid "Manage adverts"
+msgstr "Kelola iklan"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:11
+msgid "Your saved properties"
+msgstr "Properti tersimpan anda"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:21
+msgid "You don't have any saved properties"
+msgstr "Anda tidak memiliki properti apapun"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:22
+msgid "To save a property to your favourites use the button on the right-hand side of the property details page."
+msgstr "Untuk menyimpan properti ke dalam favorit anda gunakan tombol di bagian kanan pada halaman rincian properti."
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:35
+msgid "Property"
+msgstr "Properti"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:36
+msgid "Reference"
+msgstr "Referensi"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:37
+msgid "Options"
+msgstr "Pilihan"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:54
+msgid "from"
+msgstr "dari"
+
+#: C:\express\estatezilla/resources/views/default\user\favourites.blade.php:66
+msgid "Remove"
+msgstr "Hapus"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:2
+msgid "Edit your profile"
+msgstr "Ubah profil anda"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:15
+msgid "Your profile"
+msgstr "Profil anda"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:21
+msgid "Title"
+msgstr "Judul"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:50
+msgid "Mobile number"
+msgstr "Nomor ponsel"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:64
+msgid "Fax"
+msgstr "Fax"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:77
+msgid "Your address"
+msgstr "Alamat anda"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:82
+msgid "Address"
+msgstr "Alamat"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:89
+msgid "Town"
+msgstr "Kota"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:96
+msgid "County"
+msgstr "Desa"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:103
+msgid "Postcode"
+msgstr "Kode Pos"
+
+#: C:\express\estatezilla/resources/views/default\user\profile.blade.php:121
+msgid "Save profile"
+msgstr "Simpan profil"
